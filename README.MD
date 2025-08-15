@@ -21,9 +21,6 @@ It covers:
 
 ## 📸 Screenshots
 
-> **💡 Tip:** Save all these images in a folder named `screenshots` in your repo root.  
-> Example: `project-root/screenshots/01-jenkins-dashboard.png`
-
 | Step | Description | Screenshot |
 |------|-------------|------------|
 
@@ -45,7 +42,7 @@ It covers:
 ---
 
 ## 👨‍💻 Author
-**Sonu Yadav**  
+**Sonu Kumar**  
 📧 Email: [yadavsonu772003@gmail.com](mailto:yadavsonu772003@gmail.com)  
 🔗 GitHub Repo: [Sonukumar-72/hello-java-maven](https://github.com/Sonukumar-72/hello-java-maven)  
 
